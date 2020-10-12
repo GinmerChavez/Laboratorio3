@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AJA.cpp" />
     <ClCompile Include="ArrayList.cpp" />
     <ClCompile Include="IteradorArrayList.cpp" />
     <ClCompile Include="IteradorLinkedList.cpp" />
@@ -149,6 +150,7 @@
     <ClCompile Include="Persona.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="AJA.h" />
     <ClInclude Include="ArrayList.h" />
     <ClInclude Include="IIterable.h" />
     <ClInclude Include="IIterador.h" />
